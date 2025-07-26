@@ -4,9 +4,17 @@
         <link>http://192.168.0.247:1313/</link>
         <description>Dr. Anandana Kapur</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact.anandana@gmail.com (Dr. Anandana Kapur)</managingEditor>
-            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><lastBuildDate>Sat, 26 Jul 2025 16:10:03 &#43;0530</lastBuildDate>
+            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><lastBuildDate>Sat, 26 Jul 2025 19:12:42 &#43;0530</lastBuildDate>
             <atom:link href="http://192.168.0.247:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Second</title>
+    <link>http://192.168.0.247:1313/second/</link>
+    <pubDate>Sat, 26 Jul 2025 19:12:42 &#43;0530</pubDate>
+    <author>Dr. Anandana Kapur</author>
+    <guid>http://192.168.0.247:1313/second/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>My First Post</title>
     <link>http://192.168.0.247:1313/my-first-post/</link>
     <pubDate>Sat, 26 Jul 2025 16:10:03 &#43;0530</pubDate>
